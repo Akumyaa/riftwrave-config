@@ -1,0 +1,21 @@
+{
+  "BETA": {
+    "version": "0.2.3",
+    "changelog": "Версия BETA (v0.2.3)\n\n- Первый релиз\n- Добавлен новый контент\n- Исправлены баги",
+    "sources": {
+      "site": "http://f1298937.xsph.ru/game/SFUE_0.2.3Beta.rar",
+      "github": "https://github.com/Akumyaa/SFUE_Beta/releases/download/v0.2.3/SFUE_0.2.3Beta.rar",
+      "telegram": ""
+    }
+  },
+  "PREVIEW": {
+    "version": "0.3.0",
+    "changelog": "Версия PREVIEW\n\n- Тест оружия",
+    "sources": {
+      "site": "",
+      "github": "",
+      "telegram": ""
+    }
+  },
+  "_signature": "DOLK7oPyS0m2f9O2wPfYzetg0mdE+TQlMDkxWimbItE="
+}
