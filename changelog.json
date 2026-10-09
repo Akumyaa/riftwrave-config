@@ -1,12 +1,12 @@
 {
   "BETA": {
-    "version": "0.2.3",
+    "version": "0.2.3a",
     "manifest_urls": [
       "https://raw.githubusercontent.com/Akumyaa/SFUE_Beta_files/main/manifest.json"
     ],
-    "changelog": "Обновление:\n\n• Тест лаунчера\n• Тест инкриментальных обновлений",
+    "changelog": "Обновление:\n\n• Что-то новое\n• Что-то исправлено\n• Что-то улучшено",
     "sources": {
-      "github": "https://github.com/Akumyaa/SFUE_Beta/releases/download/v0.2.3/SFUE_0.2.3BETA.zip"
+      "github": "https://github.com/Akumyaa/SFUE_Beta/releases/download/v0.2.3a/SFUE_0.2.3aBETA.zip"
     }
   },
   "PREVIEW": {
@@ -19,5 +19,5 @@
       "telegram": ""
     }
   },
-  "_signature": "wpz6uuEkm4GqPA32vRTx3XPaHBU8BNa5SwepYoB/PCk="
+  "_signature": "GCnt5VtE2+d1cjzXGU4hPDZVg+IFCfsV09n2tPZURAw="
 }
